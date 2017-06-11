@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<china>
+	<province name="广东">
+		<city>梅州</city>
+		<city>珠海</city>
+	</province>
+	<province name="湖南">
+		<city>长沙</city>
+		<city>张家界市</city>
+	</province>
+</china>
